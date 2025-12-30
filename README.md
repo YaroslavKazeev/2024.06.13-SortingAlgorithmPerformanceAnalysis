@@ -2,6 +2,15 @@
 
 This project provides a comprehensive analysis of various sorting algorithms' performance across different types of datasets. It includes implementations of popular sorting algorithms and tools to measure and visualize their performance characteristics.
 
+## Quick Start
+
+```bash
+# Install dependencies
+pipenv install matplotlib
+```
+
+The project requires the dependency **matplotlib** for performance visualization and plotting
+
 ## Features
 
 - **Multiple Sorting Algorithms**: Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, Tim Sort, Selection Sort, Shell Sort
