@@ -11,6 +11,12 @@ pipenv install matplotlib
 
 The project requires the dependency **matplotlib** for performance visualization and plotting
 
+## Tech Stack
+
+- **Python 3.x**: Core programming language
+- **matplotlib**: Data visualization library for generating performance plots and charts
+- **Pipenv**: Dependency management and virtual environment tool
+
 ## Features
 
 - **Multiple Sorting Algorithms**: Bubble Sort, Merge Sort, Quick Sort, Insertion Sort, Tim Sort, Selection Sort, Shell Sort
